@@ -34,4 +34,4 @@ Unveil the gaming world best-kept secrets with our PHP script designed for Free 
 
 Feel free to explore, modify, and share this script, but please credit [S Y N A X](https://t.me/OGsnx) for their outstanding contribution to the gaming community.
 
-🌟 **Happy Gaming! 🎮🚀**
+🌟 **Happy Gaming! With S Y NA X🎮🚀**

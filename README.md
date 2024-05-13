@@ -1,6 +1,6 @@
 # Free Fire UID to Name Finder by SYNAX 🚀
 
-Unveil the gaming world's best-kept secrets with our PHP script designed for Free Fire enthusiasts! 🌟
+Unveil the gaming world best-kept secrets with our PHP script designed for Free Fire enthusiasts! 🌟
 
 ## Features:
 - 🔍 **Instant UID to Player Name Conversion:**
